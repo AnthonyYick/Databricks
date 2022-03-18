@@ -73,4 +73,8 @@ df2.write.format("parquet").  \
 
 # COMMAND ----------
 
+2+2
+
+# COMMAND ----------
+
 
